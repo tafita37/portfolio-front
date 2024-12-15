@@ -1,25 +1,24 @@
 {
-    "name": "Jonas Einstein",
-    "profilePictureUrl": "images/pictures/avatar.png",
+    "name": "RANDRIAMBOLOLONA Tafita Anael",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Designed by <strong><a class='light' href='https://github.com/tafita37'>RANDRIAMBOLOLONA Tafita Anael</a></strong>",
             "role": "UX Designer"
         },
 
         "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/tafita37'>RANDRIAMBOLOLONA Tafita Anael</a></strong>",
             "role": "Designer de UX"
         },
 
         "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/tafita37'>RANDRIAMBOLOLONA Tafita Anael</a></strong>",
+            "role": "Développeur freelance"
         },
 
         "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "设计：<strong><a class='light' href='https://github.com/tafita37'>RANDRIAMBOLOLONA Tafita Anael</a></strong>",
             "role": "用户体验设计师"
         }
     },

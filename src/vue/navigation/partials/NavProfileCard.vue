@@ -2,7 +2,7 @@
     <!-- Profile Card -->
     <div class="nav-profile-card" :class="shrink ? 'nav-profile-card-shrink' : ''">
         <!-- Avatar -->
-        <ImageView :src="props.profileData['profilePictureUrl']"
+        <ImageView src="images/pictures/test.jpg"
                    :alt="props.profileData['name']"
                    class="img-pfp"/>
 
@@ -27,7 +27,7 @@ const navigation = useNavigation()
  */
 const props = defineProps({
     profileData: Object,
-    shrink: Boolean,
+    shrink: Boolean
 })
 </script>
 
